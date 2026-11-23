@@ -1,0 +1,9 @@
+:root {
+  --bg: #f9f7f6;
+  --surface: #ffffff;
+  --text: #25221e;
+  --muted: #6f6d6b;
+  --primary: #e34432;
+  --font: Inter, "Charlie Text", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --radius: 8px;
+}
